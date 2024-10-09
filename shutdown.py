@@ -1,8 +1,8 @@
 import os
 
-shutdown = input("Do you wish to shutdown your computer ? (Yes / No): ") 
+shutdown = input("Do you wish to shutdown your computer ? (yes / yo): ") 
 
-if shutdown == 'No':
+if shutdown == 'no':
 	exit() 
 else: 
 	os.system("shutdown /s /t 1")
