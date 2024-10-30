@@ -1,4 +1,4 @@
-# Shutdown
+# Code Description
 
 A simple python script to shutdown your computer.
 
